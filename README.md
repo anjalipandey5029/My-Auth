@@ -21,3 +21,9 @@ Users can create an account by registering with their email, securely log in, an
 - Routing: React Router (Navigate)
 - Authentication: Basic  logic (modify as per implementation)
 
+## Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone 
+
