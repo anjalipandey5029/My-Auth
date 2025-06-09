@@ -25,5 +25,5 @@ Users can create an account by registering with their email, securely log in, an
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/anjalipandey5029/My-Auth.git
 
